@@ -1,0 +1,16 @@
+.block {
+      box-sizing: border-box;
+      background-color: white;
+      border: none;
+      height: 6rem;
+      width: 6rem;
+      border-radius: 8%;
+      box-shadow: 0px 0px 6px #7e7b7b;
+      font-size: 5em;
+      margin: 5px 5px;
+}
+
+.block:hover {
+      box-shadow: 0 0 13px #434242;
+      cursor: pointer;
+}
